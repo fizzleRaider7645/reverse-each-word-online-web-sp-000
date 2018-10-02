@@ -1,6 +1,6 @@
 def reverse_each_word(string)
   new_string = []
-  string.scan(/\b\w\b/)
+  p string.scan(/\b\w\b/)
   
 end
 
