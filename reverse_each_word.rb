@@ -1,10 +1,6 @@
 def reverse_each_word(string)
   new_string = []
   string.split(" ").each do |word|
-    i = word.length - 1
-    while i >= 0
-    i -= 1
-    end
   end
 end
 
