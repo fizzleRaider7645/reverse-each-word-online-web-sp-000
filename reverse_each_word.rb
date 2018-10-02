@@ -3,7 +3,7 @@ def reverse_each_word(string)
   string.split(" ").each do |word|
     i = word.length - 1
     while i >= 0
-  end
+    end
   end
 end
 
